@@ -1,0 +1,11 @@
+Main - Deixar mais elegante
+
+ReadScreen - Fazer o findImg mais modular e reutilizavel em outras telas, parametrizer se é debbug ou não. Deixar o customCommand mais modular para chamar em outras telas sem precisar chamar tudo
+
+ClickParsec - Fazer o cálculo de acordo com qual monitor está usando, ver se tem como indentificar o monitor pela posição da janela e a resolução das telas
+
+ClickYuzu - Fazer buscar a posição por processamento de imagem.
+
+Fazer salvar Log ao inves de abrir janela quando chamar 'showImg' em exception
+
+Colocar timer entre um comando e outro
